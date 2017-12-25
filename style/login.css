@@ -1,0 +1,90 @@
+﻿body 
+{
+    margin:0 auto;
+    background-color :White ;
+    
+}
+
+.container
+{
+
+    width :500PX;
+    height:400px;
+    text-align:center;
+    margin: 0 auto;
+    background-color:#34495e;
+    
+    margin-top:150px;
+        
+}
+.container img
+{
+    width:120px;
+    height :120px;
+    margin-top:-85px;
+    margin-bottom :30px;
+     -moz--moz-border-radius: 75px;
+    border :none;
+    }
+    Button
+    {
+         -moz-border-radius: 5px;
+        height :45px;
+        width:300px;
+        margin-bottom:10px;
+        font-size:18px;
+        background-color:#fff;
+         padding-left :40px; 
+        }
+        
+    /*TextBox[type="text"], TextBox[type="password"]*/
+  .user, .pass
+    {
+         -moz-border-radius: 5px;
+        height :45px;
+        width:300px;
+        margin-bottom:10px;
+        font-size:18px;
+        background-color:#fff;
+         padding-left :40px;    
+    }
+    .form_input::before
+    {
+       /*-moz-content: locked.jpg;*/
+        position:absolute;
+        font-family:"fontawsome";
+        font-size:30px;
+        
+        }
+    .right_marquee
+        {
+ 
+            height: 400px;
+            background-color: blue;
+            width: 550px;
+                margin-left:  1147px;    
+            margin-top:-400px;
+            padding-bottom: -100px;
+      
+    
+}
+
+        .btn_login
+        {
+           cursor:pointer;
+            height:45px;
+            background-color:#2ecc71;
+            border :none;
+           -moz-border-radius: 5px;
+           font-size:18px;
+                      
+            }
+        
+   .top_marquee{
+    height: 400px;
+    background-color: blue;
+    width: 550px;    
+  float: left;
+       margin-left: 70px;
+      
+}

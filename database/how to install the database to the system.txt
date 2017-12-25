@@ -1,0 +1,2 @@
+use the sql server 2014 to recover the database 
+and change the connection string which is the web config file to the one that suit your computer

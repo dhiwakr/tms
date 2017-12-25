@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tms.addbuss" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggCADABESAYAkQGEAAAAQAEEIgAAAQFAoAQAAYAIkA=</HashCode>
+      <FileName>forms\addbuss.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.WebForm1" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgCAEQA7AAQEEIAgERoAAjDf4AAFAAAAggJUIUA=</HashCode>
+      <FileName>forms\AddEmployee.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.Create_Account" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQIAAAAAAAAAAQAAKAAAA=</HashCode>
+      <FileName>forms\CreateAccount.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.Fuel_Allocation" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAECARgAAACAAQAAAgADwwAAABAAIAAAIAAAA=</HashCode>
+      <FileName>forms\Fuel Allocation.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.Gate_Pass" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACIAECAAAgAFECAQAAAgQAD9AAIFgABAAhIBIAA=</HashCode>
+      <FileName>forms\Gate Pass.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.login" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAAAAAAAAAAAEAAQAAIAAAAAAAAAAAAAoAAAA=</HashCode>
+      <FileName>forms\login.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.registration" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAkAAAAAQBAAAAARgIgAAQYkAAAAAABAIIAEA=</HashCode>
+      <FileName>forms\registration.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.Site1" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAABIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>forms\Site1.Master.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.Transport_Request" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQEAAAIAAEEAAQAAALAQRyACAFgAAAAAoAICA=</HashCode>
+      <FileName>forms\Transport Request.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.Vehicle_Allocation" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAECAAoAADgCAQAAIBADjtggABgABAAgIAAAA=</HashCode>
+      <FileName>forms\Vehicle Allocation.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.WebForm3" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>forms\view employes.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.WebForm2" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>forms\WebForm2.aspx.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.Global_asax" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tms.My.MySettings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="tms.My.MyWebExtension" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAAABAAEAAAAAAAAAAAAgBgBAAAAAAAAAAAAA=</HashCode>
+      <FileName>My Project\MyExtensions\MyWebExtension.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="tms.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="tms.My.Resources.Resources" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

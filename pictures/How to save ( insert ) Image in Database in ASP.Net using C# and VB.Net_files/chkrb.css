@@ -1,0 +1,12 @@
+﻿/* Radio button and Checkbox Css */
+.radio, .checkbox { padding-left:0px; margin-bottom:0; min-height:0 !important; }
+.radio label, .checkbox label { display: inline-block; cursor: pointer; position: relative; padding-left: 25px; margin-right: 15px; margin-bottom:10px; font-size: 13px; }
+.radio input[type=radio], .checkbox input[type=checkbox] { display: none; }
+.radio label:before { content: ""; display: inline-block; width: 17px; height: 17px; margin-right: 20px; position: absolute;  left: 2px; bottom: 2px; background-color: #009BEE; }
+.checkbox label:before { content: ""; display: inline-block; width: 17px; height: 17px; margin-right: 20px; position: absolute; left: 0; top: 2px; background-color: #009BEE; }
+.radio label:before { border-radius: 17px; border: 1px solid #0075B4; }
+.checkbox label { margin-bottom: 5px; padding-top:2px; }
+.checkbox label:before { border-radius: 3px; border: 1px solid #0075B4; }
+.radio input[type=radio]:checked + label:before { font-family:FontAwesome; content: ""; color: #fff; font-size: 7pt; text-align: center; line-height: 16px; }
+.checkbox input[type=checkbox]:checked + label:before { font-family:FontAwesome; content: ""; text-shadow: 1px 1px 1px rgba(0, 0, 0, .2); font-size: 8pt; font-weight:normal; color: #fff; text-align: center; line-height: 16px; }
+.checkbox.disabled label:before { background-color:#bbb; border-color:#ddd; }

@@ -1,0 +1,36 @@
+﻿@media (max-width: 1024px)
+{
+    .logo { max-width:250px; }
+    .logo .asp { width:50px; overflow:visible; }
+    .logo .aspsnippets { width:190px; }
+    .footer-search-box { width:66%; }
+}
+.site-nav { width:430px !important; z-index:1; }
+.site-search { width:100% !important; margin-left:-430px; padding-left:430px; float:left; }
+.site-nav-with-admin { width:510px !important; z-index:1; }
+.site-search-with-admin { width:100% !important; margin-left:-510px; padding-left:525px; float:left; }
+.site-search .dvSearch-field { width:100%; margin-right:-130px; padding-right:137px; float:left; }
+.site-search .dvSearch-field #txtSearch { width:100% !important; max-width:100% !important; }
+.site-search .dvSearch-submit { width:130px; float:right; }
+.left-section { width:100% !important; margin-right:-330px; padding-right:330px; float:left; }
+.right-section { width:330px; margin:auto; }
+.article-body-right { width:190px !important; float:left; }
+.article-body-wrap { width:100% !important; margin-right:-190px; padding-right:190px;  }
+.info-box .right-content, .error-box .right-content, .note-box .right-content, .success-box .right-content { width:100% !important; margin-left:-50px; padding-left:60px; }
+#AuthorMessagePopup { width:500px; }
+#dvArticleTextAd iframe { width: 600px; height:40px; }
+/*.article_summary .footer_with_admin .btn.btn-pink { margin-left:112px !important; }*/
+.article_summary .abstract { margin-right: 15px; }
+.article_summary .abstract .text_ad { position: absolute; bottom: 10px; }
+#dvAddComment .note-box { padding: 0px; }
+#dvAddComment .note-box .fa-thumbs-up { font-size: 2.2em; position: relative; top: 8px; left: 5px; margin-right:0 }
+#dvAddComment .note-box .right-content { margin-left: -50px; padding-left:45px; }
+/*.search-wrap .info-box { padding:5px; }*/
+
+/*.search-wrap .info-box .fa { font-size: 2.5em; position: relative; top: 0px; }*/
+.search-wrap .info-box .right-content { margin-left: -50px; padding-left: 60px; font-size: 11pt; }
+.search-wrap .article_summary { padding-bottom: 5px; }
+.search-wrap .article_summary.last { margin-bottom: 0; }
+
+#article .sponsored-badge { position: relative; top: 5px; }
+.article_summary .sponsored-badge { position:relative; top: 9px; right: 5px; }

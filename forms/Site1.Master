@@ -1,0 +1,145 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="tms.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <script src="../java/myjava.js"></script>
+    <link href="../style/master.css" rel="stylesheet" />
+    <link href="../style/addbuss.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server"  >
+        <div class="container">
+            <header>
+                <nav>
+                    <ul id="navmenu">
+
+                        <li><a href="#">Home</a></li>
+
+                        <li><a href="#">Employee</a><span class="darrow">&#9660</span>
+                            <ul class="sub1">
+                               
+                                <li> <a href="AddEmployee.aspx">Add Employee</a></li>
+                                <li><a href="#">Remove</a></li>
+                                <li><a href="view employes.aspx">View</a></li>
+                       
+                                <li><a href="reg/registration.aspx">Register</a></li>
+                                 <li><a href="#">Account Settings</a><span class="rarrow">&#9654</span>
+
+                                    <ul class="sub2">
+                                       
+                                       <li> <a href="change%20password.aspx">Change Password</a></li>
+                                       <li><a href="change%20password.aspx"> Recover password</a></li> 
+                                        
+                                     
+
+                                    </ul>
+                                </li>
+
+
+                            </ul>
+                        </li>
+                        <li><a href="#">Vehicle Request</a><span class="darrow">&#9660</span>
+                         <ul class="sub1">
+
+                                <li><a href="addbuss.aspx">Vehicle Request</a></li>
+                                <li><a href="#">Cancel Request</a></li>
+                                <li><a href="#">Update Request</a></li>
+                                 <li><a href="#">View Request</a></li>
+
+                            </ul>
+
+                        </li>
+                           
+                        <li><a href="#">Vehicle</a><span class="darrow">&#9660</span>
+
+                            <ul class="sub1">
+
+                                <li><a href="addbuss.aspx">Add Vehicle</a></li>
+                                <li><a href="#">Remove Vehicle</a></li>
+                                <li><a href="#">View Vehicle</a><span class="rarrow">&#9654</span>
+
+                                    <ul class="sub2">
+                                        <li><a href="#">Booked</a></li>
+                                        <li><a href="#">Booked</a></li>
+                                        <li><a href="#">Unbooked</a></li>
+                                        <li><a href="#">All Vehicle</a></li>
+
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Services</a><span class="darrow">&#9660</span>
+
+                             <ul class="sub1">
+
+                                <li><a href="Vehicle Allocation.aspx">ALLOCATE</a></li>
+                                <li><a href="#">View Allocated</a></li>
+                                   <li><a href="Fuel Allocation.aspx">Fuel Allocated</a></li>
+                                 </ul>
+
+
+
+                        </li>
+
+                             <li><a href="#">About Us</a><span class="darrow">&#9660</span>
+                            <ul class="sub1">
+
+                                <li><a href="#">Feed Back</a></li>
+                              
+                               
+                                <li> <a href="http://localhost:2168/Default.aspx">Contact Us</a></li>
+                                <li><a href="#">View</a></li>
+                                
+
+                            </ul>
+                        </li>
+
+
+
+                    </ul>
+
+
+                </nav>
+
+            </header>
+
+
+
+            <section>
+                <div class="clear">
+                    <asp:Image ID="Image1" runat="server" style="z-index: 1; left: 1057px; top: 22px; position: absolute; width: 85px; height: 75px" ImageUrl="~/pictures/index.png" />
+                </div>
+                <article>
+
+                    <header>
+                        <h2>article</h2>
+                    </header>
+                    <iframe src="http://www.google.com/calendar/" sandbox='allow-forms allow-scripts' style="border: 0px none; height: 300px;  width: 300px;" height="300" width="300"></iframe>
+                    <p>paragraph 2</p>
+                    <footer>
+                        Africa University</footer>
+
+                </article>
+
+            </section>
+
+            <div class="content">
+                <div class="contentholder" <%--style="width: 80%"--%>>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+            <footer>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>

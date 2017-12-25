@@ -1,0 +1,242 @@
+﻿     
+    
+        
+    
+        
+        .auto-style3 {
+            height: 37px;
+            width: 69px;
+        }
+        .auto-style4 {
+            width: 131px;
+        }
+        .auto-style5 {
+            height: 37px;
+            width: 131px;
+        }
+        .auto-style7 {
+            height: 37px;
+            width: 173px;
+        }
+        .auto-style8 {
+            width: 69px;
+        }
+        .auto-style10 {
+            height: 37px;
+            width: 129px;
+        }
+        .auto-style11 {
+            width: 173px;
+        }
+        .auto-style12 {
+            width: 60px;
+        }
+        .auto-style13 {
+            height: 37px;
+            width: 60px;
+        }
+        .auto-style14 {
+            width: 129px;
+        }
+        .auto-style17 {
+            width: 215px;
+        }
+        .auto-style18 {
+            width: 66px;
+        }
+        #Text1 {
+            height: 116px;
+            width: 393px;
+        }
+        .auto-style20 {
+            width: 215px;
+            height: 14px;
+        }
+        .auto-style21 {
+            width: 66px;
+            height: 14px;
+        }
+        .auto-style22 {
+        }
+        .auto-style23 {
+            height: 14px;
+            width: 131px;
+        }
+        .auto-style24 {
+            width: 131px;
+            height: 41px;
+        }
+        .auto-style25 {
+            width: 173px;
+            height: 41px;
+        }
+        .auto-style26 {
+            width: 60px;
+            height: 41px;
+        }
+        .auto-style27 {
+            width: 129px;
+            height: 41px;
+        }
+        .auto-style28 {
+            width: 69px;
+            height: 41px;
+        }
+        #output {
+            z-index: 1;
+            left: 781px;
+            top: 15px;
+            position: absolute;
+            height: 55px;
+            width: 58px;
+        }
+        .pannel1{
+            left: 596px;
+            position: absolute;
+            top: 40px;                   
+            background-color:greenyellow;
+            border-color:yellow;
+            border-style:double;
+            width: 690px;
+       
+        }
+
+
+ #ContentPlaceHolder1_ImageButton1{ 
+               z-index: 1;
+              left: 430px; 
+              top: 35px;
+               position: absolute; 
+               width: 20px;
+         }
+         #output{
+           width:100px;
+           height:100px;
+            border-radius:75px;
+            left: 590px;
+     
+         }
+         
+#ContentPlaceHolder1_Calendar1{
+   z-index: 1;
+    left: 450px;
+     top: 60px;
+      position: absolute;
+       height: 113px; 
+       width: 130px;
+}
+
+        @media screen and (max-width:800px) {
+             .maintable{
+            height:33px;
+           width: 820px;
+            
+        }
+    
+        .pannel1{
+            left: 15px;
+           width:790px;
+            top: 220px;
+           
+        }
+       #ContentPlaceHolder1_ImageButton1{
+    z-index: 1;
+  
+   left:570px;
+
+    position: absolute; 
+    
+    width: 20px;
+}
+        }
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:600px){
+      .pannel1{
+            left: 15px;
+           width:570px;
+            top: 205px;
+           
+        }
+    .maintable{
+            height:33px;
+           width: 50px;
+            
+        }
+     #ContentPlaceHolder1_ImageButton1{
+    z-index: 1;
+  
+   left:415px;
+
+    position: absolute; 
+    
+    width: 20px;
+}
+    .auto-style32, .auto-style21,.auto-style15,.auto-style16,.auto-style18,.auto-style42,.auto-style39, .auto-style5,.auto-style1,.auto-style4,.auto-style10, .auto-style13,.auto-style14,.auto-style27,.auto-style24 {
+     width: 0px;
+        visibility:hidden;
+        }
+    
+}
+
+
+    
+    
+    
+        .auto-style29 {
+            width: 131px;
+            visibility: hidden;
+            height: 29px;
+        }
+        .auto-style32 {
+            width: 129px;
+            visibility: hidden;
+            height: 29px;
+        }
+        .auto-style36 {
+            height: 29px;
+            width: 173px;
+        }
+        .auto-style37 {
+            height: 29px;
+            width: 60px;
+        }
+        .auto-style38 {
+            height: 29px;
+            width: 69px;
+        }
+        .auto-style39 {
+            width: 131px;
+            visibility: hidden;
+            height: 21px;
+        }
+        .auto-style40 {
+            width: 173px;
+            height: 21px;
+        }
+        .auto-style41 {
+            width: 60px;
+            height: 21px;
+        }
+        .auto-style42 {
+            width: 129px;
+            visibility: hidden;
+            height: 21px;
+        }
+        .auto-style43 {
+            width: 69px;
+            height: 21px;
+        }
+
+
+    
+    
+    
